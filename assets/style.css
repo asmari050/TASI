@@ -1,0 +1,61 @@
+*{
+    direction: rtl;
+   
+    font-family:'Calibri';
+    font-size: 22px;
+    margin: 1px;
+}
+
+body{
+ 
+ background-color: #f0f0f1;
+ color: #0e0d0d;
+ font-size: 20px;
+ 
+}
+
+.input_S1{
+   
+    width: 350px;
+    display: flex;
+   
+}
+
+ul{
+    list-style:  none;
+   
+    
+}
+
+ul li{
+
+    background-color: rgb(192, 190, 190);
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 8px;
+    
+}
+
+.T{
+    background-color:#c0bebe;
+    width: 100px;
+    border: 1px solid #9b9898; /* تحديد حدود بسمك 2 بكسل، خط مستقيم، لون الحدود #0e0d0d */
+}
+   
+.TT {
+    width: 300px;
+    margin-right: 5px;
+    border: 1px solid #9b9898; /* تحديد حدود بسمك 2 بكسل، خط مستقيم، لون الحدود #0e0d0d */
+   
+}
+
+
+
+.info_table {
+background-color: red;
+
+}
+table{
+    width: 300px;
+    
+}
